@@ -2,15 +2,15 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
-<img src="https://drorangeleo.github.io/chenliu.jpg" class="floatpic" width="360" height="480">
+<img src="https://drorangeleo.github.io/chen.jpg" class="floatpic" width="360" height="480">
 
 Here is **Chen Liu (刘辰)**.
 
 I am a senior student majoring in **Public Finance** at Nankai University. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chenleo2021@163.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  *chenleo2021@163.com*
 
 <br>
 

@@ -5,8 +5,17 @@ title: Studynotes
 
 ---
 
-## Paper Notes
+## 常见问题
 
-- Internet of Everything
+### 论文
+
+- 论文阅读笔记汇总
+
+<br>
+
+### 软件
+
+- Python
+- Stata
 
 <br>

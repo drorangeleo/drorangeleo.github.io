@@ -50,6 +50,9 @@ links:
     # url: /notes/
   - title: Blogs
     url: /blogs/
+  - title: Studynotes
+    url: /studynotes/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Tianjin

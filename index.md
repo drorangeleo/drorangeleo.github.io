@@ -36,7 +36,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Updates
 
-- **Aug 2023：**.
+- **Aug 2023：**
 
   
 

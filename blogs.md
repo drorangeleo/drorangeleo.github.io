@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2023
 
-- [21岁，何妨吟啸且徐行](https://caihanlin.com/blogs/21yrs)<br>
+- [21岁，何妨吟啸且徐行](https://drorangeleo.github.io/blogs/21yrs)<br>
 
   
 

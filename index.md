@@ -14,9 +14,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
+---
+
+
 ## Academic Background
 
-** I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**I am looking for PhD to start in 2025 Spring. Contact me if you have any leads!**
 
 - **Sep 2021 - June 2025:** Nankai University 
 - Expect to graduate in June 2025. Looking for PhD position after that.
@@ -36,9 +39,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Updates
 
-- **Aug 2023：**
 
-  
+
+
 
 <br>
 
